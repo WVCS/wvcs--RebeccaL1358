@@ -4,6 +4,7 @@ h1{
   font-size: 80px;
   letter-spacing: 2px;
 }
+
 p{
   color: LightYellow;
     text-align: center;
@@ -16,4 +17,32 @@ body {
 
 iframe{
   border: black;
+}
+
+ul{list-style-type: none;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: #323232;
+  opacity: 0.6;
+
+}
+
+li a {
+  display: block;
+  color: LightYellow;
+  text-align: center;
+  padding: 10px 30px;
+  float: left;
+  font-size: 23px;
+   opacity: 1;
+}
+
+li.nav a:hover {
+  background-color: #2f4f4f;
+}
+
+br{
+  color: LightYellow;
 }
