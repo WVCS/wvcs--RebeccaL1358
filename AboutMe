@@ -1,1 +1,78 @@
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+  
+    <title>Rebecca Liu's Website</title>
+    
+</head>
+<body>
 
+  <ul>
+  <li class="nav"> <a href="index.html">Home</a></li>
+    <li class="nav"><a href="apps.html">Apps</a></li>
+  <li class= "nav"> <a href="AboutMe">About Me</a></li>
+    <li class= "nav"> <a href="ContactMe.html">Contact Me</a></li>
+    
+</ul>
+    
+ </div>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+  <h1 id="index.html"> Rebecca's Website </h1>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <hr>
+  <br>
+  <br>
+
+    <p id="AboutMe"> About Me </p>
+    
+    
+    <p> <em>My AP classes throughout High School.</em></p>
+    <br>
+   
+    <table class="Schedule" border="2" style="width:100%;">
+	<tr>
+		<td>Freshman Year</td>
+		<td>None</td>
+	</tr>
+	<tr>
+		<td>Sophomore Year</td>
+		<td>AP Biology and AP Calculus AB</td>
+	</tr>
+   <tr>
+		<td>Junior Year</td>
+		<td>AP Psychology, AP Spanish, and AP Calculus BC</td>
+	</tr>
+      <tr>
+		<td>Senior Year</td>
+		<td>AP Computer Science Principles and AP Statistics</td>
+	</tr>
+</table>  
+    
+    <br>
+    <br>
+    <br>
+    <em> I am a senior attending Westview High School in San Diego, California. I will be attending Santa Clara University in the fall as a business major.</em>
+    
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+  
+  
+</body>
+</html>
