@@ -46,3 +46,21 @@ li.nav a:hover {
 br{
   color: LightYellow;
 }
+
+td{
+  color: LightYellow;
+  text-align: center;
+}
+
+em{
+  font-size: 18px;
+  color: LightYellow;
+}
+
+button {
+  background-color: #2f4f4f;
+  color: LightYellow;
+  margin: 5px 4px;
+  padding: 15px 30px;
+  border: 4px dotted LightYellow;
+}
